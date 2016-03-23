@@ -14,7 +14,7 @@
         </value>
         <value name="BOTHMOVRIGHT">
           <block type="math_number" id="124">
-            <field name="NUM">90</field>
+            <field name="NUM">80</field>
           </block>
         </value>
         <next>
