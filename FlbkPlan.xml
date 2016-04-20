@@ -21,7 +21,7 @@
           <block type="robot_delay" id="6" inline="true">
             <value name="DELAY">
               <block type="math_number" id="7">
-                <field name="NUM">5000</field>
+                <field name="NUM">3800</field>
               </block>
             </value>
           </block>
@@ -29,13 +29,7 @@
       </block>
     </statement>
     <next>
-      <block type="movement_stop" id="8">
-        <next>
-          <block type="comment_comment" id="10">
-            <field name="TEXT">This is for Jade 8 just a note</field>
-          </block>
-        </next>
-      </block>
+      <block type="movement_stop" id="8"></block>
     </next>
   </block>
 </xml>
